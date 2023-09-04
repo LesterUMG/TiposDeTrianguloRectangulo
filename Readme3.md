@@ -1,4 +1,4 @@
-# TAREA 1 DE ALGORITMOS
+# TAREA 2 DE ALGORITMOS
 # Lester López
 ## El siguiente programa muestra 4 tipos de triangulo rectangulo.
 >Algoritmo en Pseudocodigo
